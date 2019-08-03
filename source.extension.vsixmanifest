@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Neptune.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="evilb" />
+        <Identity Id="Neptune.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="evilbaschdi" />
         <DisplayName>Neptune</DisplayName>
-        <Description xml:space="preserve">VSTheme project.</Description>
+        <Description xml:space="preserve">Azure DevOps theme "Neptune" inspired Visual Studio Custom Theme</Description>
+        <MoreInfo>https://github.com/evilbaschdi/Neptune</MoreInfo>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
